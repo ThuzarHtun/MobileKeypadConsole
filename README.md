@@ -7,8 +7,8 @@ Description
 - Handles character selection by counting repeated key presses.
 - Uses a timer to finalize character selection after a period of inactivity.
 - Supports special keys:
-  # to finalize the input and return the result.
-  * to simulate backspace.
+  '# to finalize the input and return the result.
+  '* to simulate backspace.
   Space key ( ) to finalize the current character without selecting another one from the same key.
 
 License
